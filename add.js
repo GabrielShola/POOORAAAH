@@ -1,1 +1,6 @@
-https://github.com/GabrielShola/PORA1_AARON_DEE_BARON
+function bodMas (x,y) {
+
+    return x + y * x * y;
+}
+
+console.log(bodMas(2,3))
